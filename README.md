@@ -1,4 +1,4 @@
 # Crash-exe
-Crashes your pc by killing a windows process
+Crashes your pc
 
 Run the exe then close it to bsod
